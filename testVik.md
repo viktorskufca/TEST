@@ -1,2 +1,2 @@
 bla bla bla
-SasoF Nova vrstica
+SasoF Nova vrstica #komentar
